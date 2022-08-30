@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Telugu&display=swap');
+.container {
+    min-width: 350px;
+}
+body {
+    font-family: 'Anek Telugu', sans-serif;
+}
+.container {
+    min-width: 350px;
+}
+.d-flex {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    gap: 20px;
+}
+.button-lukim {
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    padding: 8px 15px;
+    min-width: 150px;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+a:hover {
+    text-decoration:none;
+}
